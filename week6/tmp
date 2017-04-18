@@ -1,0 +1,23 @@
+total 568
+-rw-r--r--  1 zhenghaiyong  staff    325  4 13 14:57 Makefile
+-rw-r--r--  1 zhenghaiyong  staff     72  4 13 14:12 dest.dat
+-rwxr-xr-x  1 zhenghaiyong  staff  34900  4 13 14:02 fileRW1
+-rw-r--r--  1 zhenghaiyong  staff   1386  4 13 13:50 fileRW1.cpp
+-rwxr-xr-x  1 zhenghaiyong  staff  40420  4 13 14:02 fileRW2
+-rw-r--r--  1 zhenghaiyong  staff   1466  4 13 14:02 fileRW2.cpp
+-rwxr-xr-x  1 zhenghaiyong  staff  42780  4 13 14:06 fileRW3
+-rw-r--r--  1 zhenghaiyong  staff    559  4 13 14:05 fileRW3.cpp
+-rwxr-xr-x  1 zhenghaiyong  staff  42204  4 13 14:12 fileRW4
+-rw-r--r--  1 zhenghaiyong  staff    754  4 13 14:12 fileRW4.cpp
+-rw-r--r--  1 zhenghaiyong  staff      0  4 14 11:24 students.dat
+-rwxr-xr-x  1 zhenghaiyong  staff  16692  4 13 14:59 templateClass1
+-rw-r--r--  1 zhenghaiyong  staff    514  4 13 14:59 templateClass1.cpp
+-rwxr-xr-x  1 zhenghaiyong  staff  15708  4 13 14:59 templateClass2
+-rw-r--r--  1 zhenghaiyong  staff    254  4 13 14:59 templateClass2.cpp
+-rwxr-xr-x  1 zhenghaiyong  staff  16268  4 13 14:27 templateFunc1
+-rw-r--r--  1 zhenghaiyong  staff    425  4 13 14:27 templateFunc1.cpp
+-rwxr-xr-x  1 zhenghaiyong  staff   4248  4 13 14:38 templateFunc2
+-rw-r--r--  1 zhenghaiyong  staff    529  4 13 14:38 templateFunc2.cpp
+-rwxr-xr-x  1 zhenghaiyong  staff  16036  4 13 14:38 templateFunc3
+-rw-r--r--  1 zhenghaiyong  staff    567  4 13 14:38 templateFunc3.cpp
+-rw-r--r--  1 zhenghaiyong  staff      0  4 14 11:51 tmp
