@@ -14,5 +14,6 @@ class World {
 World TheWorld;
 
 int main() {
+  std::cout<<"This is main"<<std::endl;
     return 0;
 }

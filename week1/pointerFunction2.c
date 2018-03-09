@@ -11,6 +11,7 @@ int MyCompare(const void * elem1, const void * elem2)
   p1=(unsigned int *) elem1;  //"* elem1"非法
   p2=(unsigned int *) elem2;
   return (* p1 % 10) - (* p2 % 10);
+  //return (*p1)-(*p2);
 }
 
 #define NUM 5
