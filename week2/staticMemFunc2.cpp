@@ -9,7 +9,7 @@ public:
      static int num;
      static int Getnum()
      {
-          //x+=5;
+       //x+=5;
           num+=15;
           return num;
      }
