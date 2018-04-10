@@ -1,5 +1,5 @@
 objectsC = 
-objectsCPP = virtualEg1 virtualEg2 virtualEg3 virtualPolymorphism1 virtualPolymorphism2 virtualPolymorphism3 virtualPolymorphism4 virtualPolymorphism5 virtualPolymorphism6 virtualPolymorphism7 virtualPolymorphism8 virtualPolymorphism9
+objectsCPP = virtualEg1 virtualEg2 virtualEg3 virtualPolymorphism1 virtualPolymorphism2 virtualPolymorphism3 virtualPolymorphism4 virtualPolymorphism5 virtualPolymorphism6 virtualPolymorphism7 virtualPolymorphism8 virtualPolymorphism9 polymorphismEg1 polymorphismEg2 polymorphismEg3
 
 CC=gcc
 CPP=g++
