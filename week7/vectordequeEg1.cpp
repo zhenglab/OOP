@@ -10,7 +10,7 @@ int main()
   cout << "vector第1个元素迭代指针*p=" <<*p << endl;    //10  
   v.push_back(20); cout<<"v.capacity(): "<<v.capacity()<<endl;
   v.push_back(30); cout<<"v.capacity(): "<<v.capacity()<<endl;
-  //v.push_back(40); cout<<"v.capacity(): "<<v.capacity()<<endl;
+  v.push_back(40); cout<<"v.capacity(): "<<v.capacity()<<endl;
   //v.push_back(50); cout<<"v.capacity(): "<<v.capacity()<<endl;
   //v.push_back(60); cout<<"v.capacity(): "<<v.capacity()<<endl;
   //v.push_back(70); cout<<"v.capacity(): "<<v.capacity()<<endl;
